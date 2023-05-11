@@ -1,0 +1,15 @@
+export const CART_ADD_ITEM = 'CART_ADD_ITEM';
+export const CART_REMOVE_ITEM = 'CART_REMOVE_ITEM';
+export const CART_RESET = 'CART_RESET';
+export const CART_CLEAR_ITEMS = 'CART_CLEAR_ITEMS';
+export const SAVE_SHIPPING_ADDRESS = 'SAVE_SHIPPING_ADDRESS';
+export const SAVE_PAYMENT_METHOD = 'SAVE_PAYMENT_METHOD';
+
+export const FETCH_REQUEST = 'FETCH_REQUEST';
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const FETCH_FAIL = 'FETCH_FAIL';
+
+export const PAY_RESET = 'PAY_RESET';
+export const PAY_SUCCESS = 'PAY_SUCCESS'
+export const PAY_FAIL = 'PAY_FAIL'
+export const PAY_REQUEST = 'PAY_REQUEST'
